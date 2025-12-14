@@ -949,8 +949,7 @@ void drawHowToUse(int px, int py, int pw, int ph) {
   fill(0, 120);
   textSize(11);
   textLeading(14);
-  text("Tip: If text feels tight, increase the panel height or reduce font size slightly.",
-       rightX, py + ph +20);
+
 }
 
 
